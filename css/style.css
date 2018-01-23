@@ -1,0 +1,336 @@
+#top-bar {
+	margin-top: 10px;
+}
+.contact {
+
+	padding: 20px 0;
+}
+.contact i {
+
+	padding-right: 10px;
+}
+.social i {
+
+	padding-right: 15px;
+}
+
+.social>.fa:hover {
+
+	color: red;
+}
+
+/* Login and Regestration */
+
+.login a {
+
+	border: 1px solid #ddd;
+	padding: 15px;
+	background-color: #032f3e;
+	color: #fff;
+	border-radius: 18px 0 18px 0;
+}
+
+.login a:hover {
+
+	border: 1px solid #000;
+	background-color: #fff;
+	color: #032f3e;
+
+
+}
+
+/* Navbar style  */
+#menu-bar {
+	z-index: 500000;
+}
+
+#menu-bar .is-sticky {
+	background-color: transparent;
+}
+.navbar {
+
+	margin-bottom: 0;
+}
+
+.navbar-default {
+
+	background-color: #032f3e;
+}
+.navbar-default .navbar-nav > li > a {
+
+	color: #fff;
+	padding-left: 25px;
+	padding-right: 25px;
+}
+
+.navbar-default .navbar-nav > li {
+
+	border: 1px solid #0d3948;
+}
+
+.navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+
+	color: #ab987a;
+	
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:focus, .navbar-default .navbar-nav > .active > a:hover {
+
+	background-color: #032f3e;
+	color: #ab987a;
+}
+
+.item .img-responsive {
+
+	height: 400px;
+}
+
+/* service style strat*/
+
+#service {
+	padding: 50px 20px;
+}
+
+#service h2 {
+
+
+	
+}
+
+#service hr {
+
+	width: 100px;
+	border: 2px solid #ab987a;
+	margin: 30px auto;
+}
+
+.icon {
+
+	padding-top: 50px;
+}
+
+.icon h3 {
+
+	font-size: 14px;
+	line-height: 0.1;
+
+}
+
+.icon .row .col-md-4 a {
+
+	width: 150px;
+	height: 150px;
+	border: 2px solid #ab987a;
+	border-radius: 50%;
+	display: inline-block;
+	position: relative;
+
+}
+
+.icon .row .col-md-4 a > i {
+
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	position: absolute;
+	display: block;
+	color: #ab987a;
+}
+
+.icon .row .col-md-4 a:hover i {
+
+	color: #032f3e;
+}
+
+a:focus, a:hover {
+
+	text-decoration: none;
+	
+}
+
+.media .media-left a i {
+
+	color: #a09176;
+	padding-right: 5px;
+}
+
+#our-lesson {
+
+	padding: 40px 0;
+	background-color: #032f3e;
+	color: #fff;
+}
+
+#our-lesson .h1 h1 {
+
+	line-height: .6;
+}
+
+#our-lesson .h1 {
+
+	padding-bottom: 50px;
+}
+
+#our-lesson .media .media-left hr {
+
+	height: 30px;
+	border: 1px solid #d5d5d5;
+	width: 0;
+	margin-bottom: 0;
+}
+
+#our-program {
+
+	padding: 50px 0;
+}
+
+.program-contant {
+
+	padding: 25px;
+}
+
+#our-program .program-contant hr {
+
+	width: 100px;
+	border: 2px solid #ab987a;
+	margin: 30px auto;
+}
+
+#our-program .col-md-4> hr {
+
+	border: 2px solid #ab987a;
+}
+
+.programs {
+
+	margin-top: 25px;
+}
+
+.social> span {
+
+	padding-right: 10px;
+	color: #ab987a;
+}
+
+.programs .col-md-4> a {
+
+	color: #ab987a;
+	border: 2px solid #000;
+	padding: 10px;
+	background-color: #032f3e;
+	margin: 10px 0;
+	display: inline-block;
+
+}
+
+.programs .col-md-4> a:hover {
+
+	background-color: #fff;
+	color: #000;
+}
+
+/* Lessons style start*/
+
+#lesson {
+
+	padding-top: 80px;
+}
+
+.panel-group {
+
+	margin: 50px 0;
+}
+
+.tutorial {
+
+	padding-top: 15px;
+}
+
+.tutorial a {
+	color: #000;
+	border: 2px solid #ddd;
+	padding: 10px;
+	background-color: #ab987a;
+}
+
+.tutorial a:hover {
+
+	color: #000;
+	background-color: #fff;
+	border: 1px solid #000;
+}
+
+
+/*   skype style start*/
+
+#skype {
+
+	background-color: #c3ac83;
+	padding: 25px;
+	margin-bottom: 25px;
+	
+}
+
+.media-left .fa-skype {
+
+	color: #fff;
+}
+.btn-g .btn {
+
+	margin-right: 20px;
+	margin-top: 20px;
+}
+
+.btn-default {
+
+	background-color: transparent;
+	border: 2px solid #000;
+}
+
+.btn-primary {
+	background-color: #164756;
+
+}
+
+/* Footer style start*/
+
+#footer {
+
+	background-color: #164756;
+	color: #fff;
+	padding-top: 50px;
+}
+
+.footer-bottom {
+
+	background-color: #042f3f;
+	color: #ddd;
+}
+
+.footer-bottom .hh {
+
+	padding: 15px 0;
+}
+
+time {
+
+	color: #c3ac83;
+}
+
+
+/* portfolio style start */
+
+#portfolio-start {
+
+	padding: 50px 0;
+	background-color: #ddd;
+}
+.button-group {
+
+	padding: 30px;
+}
+
+.grid img {
+
+	padding-top: 15px;
+}
